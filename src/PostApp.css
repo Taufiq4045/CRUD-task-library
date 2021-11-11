@@ -1,0 +1,16 @@
+.container {
+    margin-top: 20px;
+    width: fit-content;
+    color: whitesmoke;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    height: auto;
+    background-color: darkgrey;
+    box-shadow: rgba(243, 159, 159, 0.35)0px 5px 15px;
+}
+
+h3 {
+    text-decoration: underline;
+    text-align: center;
+    color: #ff0000;
+}
