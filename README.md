@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-The Crud operation on book library to hit click [here](https://618cca0a2a9dccf00ad4eb61--xenodochial-cori-4cd1a8.netlify.app/).
+The Crud operation on book library to hit click [here](https://library-crud.netlify.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
